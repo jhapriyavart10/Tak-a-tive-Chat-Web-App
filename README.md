@@ -16,25 +16,10 @@ Uses Socket.io for real time communication and stores user details in encrypted 
 Clone the project
 
 ```bash
-  git clone https://github.com/piyush-eon/mern-chat-app
+  git clone https://github.com/jhapriyavart10/Tak-a-tive-Chat-Web-App
 ```
 
 Go to the project directory
-
-```bash
-  cd mern-chat-app
-```
-
-Install dependencies
-
-```bash
-  npm install
-```
-
-```bash
-  cd frontend/
-  npm install
-```
 
 Start the server
 
